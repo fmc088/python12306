@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-@author: liuyw
-"""
+
 from splinter.browser import Browser
 from time import sleep
 import traceback
